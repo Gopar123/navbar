@@ -1,0 +1,21 @@
+.Wrap{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(5, 87, 219);
+    
+}
+
+h1{
+    color: white;
+    font-size: 60px;
+}
+
+.nav-btn {
+    text-decoration: none;
+    padding: 8px 15px;
+    background: rgba(11, 110, 190, 0.639);
+    color: white;
+    border-radius: 5px;
+}
+
